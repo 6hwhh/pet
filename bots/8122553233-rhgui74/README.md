@@ -1,12 +1,12 @@
 # Inventory – 8122553233-rhgui74
 
-- Updated: 2025-09-07T21-43-20Z
+- Updated: 2025-09-07T21-43-25Z
 - Sheckles: 6.501001003571269e+21
 
 Top items:
-- Blood Owl [2.61 KG] [Age 16] ×2
+- Blood Owl [2.61 KG] [Age 16] ×1
 - Brown Mouse [3.89 KG] [Age 16] ×1
-- Carrot [0.26kg] ×1
+- Carrot [0.26kg] ×2
 - Caterpillar [1.71 KG] [Age 1] ×2
 - Chicken Zombie [1.43 KG] [Age 1] ×2
 - Cow [1.13 KG] [Age 1] ×1
