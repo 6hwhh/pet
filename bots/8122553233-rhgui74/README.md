@@ -1,18 +1,19 @@
 # Inventory – 8122553233-rhgui74
 
-- Updated: 2025-09-07T19-00-45Z
+- Updated: 2025-09-07T19-47-07Z
 - Sheckles: 6.501001003571269e+21
 
 Top items:
 - Aromatic Mimic Octopus [4.29 KG] ×1
+- Blood Owl [2.61 KG] [Age 16] ×1
 - Brown Mouse [3.89 KG] [Age 16] ×1
 - Carrot [0.32kg] ×2
-- Caterpillar [1.98 KG] [Age 1] ×2
-- Chicken Zombie [3.44 KG] [Age 17] ×2
+- Caterpillar [1.71 KG] [Age 1] ×2
+- Chicken Zombie [1.43 KG] [Age 1] ×2
 - Cow [1.13 KG] [Age 1] ×1
 - Garden Guide ×1
 - Giant Ant [1.07 KG] [Age 1] ×1
-- Mimic Octopus [5.31 KG] [Age 38] ×4
+- Mimic Octopus [4.39 KG] [Age 32] ×3
 - Orange Tabby [8.61 KG] [Age 34] ×1
 - Red Fox [8.06 KG] [Age 41] ×1
 - Seagull [2.01 KG] [Age 15] ×1
