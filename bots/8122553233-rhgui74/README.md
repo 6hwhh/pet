@@ -1,6 +1,6 @@
 # Inventory – 8122553233-rhgui74
 
-- Updated: 2025-09-07T20-01-55Z
+- Updated: 2025-09-07T20-02-11Z
 - Sheckles: 6.501001003571269e+21
 
 Top items:
@@ -15,6 +15,7 @@ Top items:
 - Giant Ant [1.07 KG] [Age 1] ×1
 - Mimic Octopus [4.39 KG] [Age 32] ×3
 - Orange Tabby [8.61 KG] [Age 34] ×1
+- Polar Bear [2.44 KG] [Age 15] ×1
 - Red Fox [8.06 KG] [Age 41] ×1
 - Seagull [2.01 KG] [Age 15] ×1
 - Shovel [Destroy Plants] ×2
