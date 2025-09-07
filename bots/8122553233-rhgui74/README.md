@@ -1,6 +1,6 @@
 # Inventory – 8122553233-rhgui74
 
-- Updated: 2025-09-07T17-56-40Z
+- Updated: 2025-09-07T17-57-21Z
 - Sheckles: 6.501001003571269e+21
 
 Top items:
@@ -9,6 +9,7 @@ Top items:
 - Carrot [0.32kg] ×1
 - Caterpillar [1.71 KG] [Age 1] ×1
 - Caterpillar [1.98 KG] [Age 1] ×1
+- Chicken Zombie [1.43 KG] [Age 1] ×1
 - Chicken Zombie [3.44 KG] [Age 17] ×1
 - Cow [1.13 KG] [Age 1] ×1
 - Garden Guide ×1
@@ -23,4 +24,3 @@ Top items:
 - [Shocked, Windstruck, Frozen, Sundried] Coconut [10.22kg] ×1
 - [Tempestuous, Frozen, Sandy, Pollinated] Beanstalk [13.95kg] ×1
 - [Wet] Coconut [13.78kg] ×1
-- [Windstruck, Frozen, Pollinated] Coconut [10.57kg] ×1
