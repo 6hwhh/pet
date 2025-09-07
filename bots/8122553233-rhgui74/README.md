@@ -1,6 +1,6 @@
 # Inventory – 8122553233-rhgui74
 
-- Updated: 2025-09-07T20-02-11Z
+- Updated: 2025-09-07T20-02-28Z
 - Sheckles: 6.501001003571269e+21
 
 Top items:
@@ -22,5 +22,4 @@ Top items:
 - Turtle [6.85 KG] [Age 30] ×1
 - Watering Can [1x Uses] ×1
 - [Chilled] Blueberry [0.23kg] ×1
-- [Tempestuous, Frozen, Sandy, Pollinated] Beanstalk [13.95kg] ×1
 - [Wet] Coconut [13.78kg] ×5
