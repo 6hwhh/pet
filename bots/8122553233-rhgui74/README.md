@@ -1,6 +1,6 @@
 # Inventory – 8122553233-rhgui74
 
-- Updated: 2025-09-08T23-46-31Z
+- Updated: 2025-09-08T23-47-14Z
 - Sheckles: 1.2450100100357128e+23
 
 Top items:
@@ -12,14 +12,14 @@ Top items:
 - Garden Guide ×1
 - Giant Ant [1.07 KG] [Age 1] ×1
 - Lobster Thermidor [2.55 KG] [Age 17] ×1
-- Mimic Octopus [5.39 KG] [Age 40] ×10
 - Orange Tabby [8.61 KG] [Age 34] ×1
 - Polar Bear [2.44 KG] [Age 15] ×1
 - Seagull [2.01 KG] [Age 15] ×1
+- Shiny Mimic Octopus [4.38 KG] ×9
 - Shovel [Destroy Plants] ×2
 - T-Rex [7.32 KG] [Age 28] ×1
 - Turtle [6.85 KG] [Age 30] ×1
 - Watering Can [1x Uses] ×1
 - [Chilled] Blueberry [0.23kg] ×1
-- [Shocked, Windstruck, Frozen, Sundried] Coconut [10.22kg] ×5
 - [Tempestuous, Frozen, Sandy, Pollinated] Beanstalk [13.95kg] ×1
+- [Windstruck, Frozen] Coconut [17.79kg] ×5
