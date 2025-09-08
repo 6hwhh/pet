@@ -1,10 +1,11 @@
 # Inventory – 8122553233-rhgui74
 
-- Updated: 2025-09-08T19-23-56Z
+- Updated: 2025-09-08T19-29-36Z
 - Sheckles: 1.3350100100357127e+23
 
 Top items:
 - Aromatic French Fry Ferret [3.52 KG] ×2
+- Aromatic Lobster Thermidor [5.24 KG] ×1
 - Blood Owl [2.87 KG] [Age 14] ×2
 - Brown Mouse [3.89 KG] [Age 16] ×1
 - Carrot [0.32kg] ×2
@@ -12,7 +13,6 @@ Top items:
 - Cow [1.13 KG] [Age 1] ×1
 - Garden Guide ×1
 - Giant Ant [1.07 KG] [Age 1] ×1
-- Lobster Thermidor [2.55 KG] [Age 17] ×2
 - Mega Chicken Zombie [6.96 KG] ×4
 - Mimic Octopus [4.39 KG] [Age 32] ×11
 - Orange Tabby [8.61 KG] [Age 34] ×1
