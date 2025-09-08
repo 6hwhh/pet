@@ -1,6 +1,6 @@
 # Inventory – 8122553233-rhgui74
 
-- Updated: 2025-09-08T20-20-28Z
+- Updated: 2025-09-08T20-20-55Z
 - Sheckles: 1.2650100100357128e+23
 
 Top items:
@@ -9,7 +9,6 @@ Top items:
 - Brown Mouse [3.89 KG] [Age 16] ×1
 - Carrot [0.32kg] ×2
 - Caterpillar [1.71 KG] [Age 1] ×2
-- Chicken Zombie [3.11 KG] [Age 19] ×1
 - Cow [1.13 KG] [Age 1] ×1
 - Garden Guide ×1
 - Giant Ant [1.07 KG] [Age 1] ×1
