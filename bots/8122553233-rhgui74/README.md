@@ -1,13 +1,13 @@
 # Inventory – 8122553233-rhgui74
 
-- Updated: 2025-09-08T17-05-39Z
+- Updated: 2025-09-08T17-05-44Z
 - Sheckles: 9.650100100357127e+22
 
 Top items:
 - Aromatic French Fry Ferret [3.52 KG] ×1
 - Blood Owl [2.87 KG] [Age 14] ×2
 - Brown Mouse [3.89 KG] [Age 16] ×1
-- Carrot [0.26kg] ×1
+- Carrot [0.26kg] ×2
 - Caterpillar [1.71 KG] [Age 1] ×2
 - Chicken Zombie [1.43 KG] [Age 1] ×2
 - Cow [1.13 KG] [Age 1] ×1
