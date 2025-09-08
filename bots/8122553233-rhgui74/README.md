@@ -1,6 +1,6 @@
 # Inventory – 8122553233-rhgui74
 
-- Updated: 2025-09-08T16-06-19Z
+- Updated: 2025-09-08T16-06-25Z
 - Sheckles: 6.501001003571269e+21
 
 Top items:
@@ -15,10 +15,10 @@ Top items:
 - Mimic Octopus [5.39 KG] [Age 40] ×11
 - Orange Tabby [8.61 KG] [Age 34] ×1
 - Polar Bear [2.44 KG] [Age 15] ×1
+- Red Fox [5.55 KG] [Age 28] ×1
 - Seagull [2.01 KG] [Age 15] ×1
 - Shovel [Destroy Plants] ×2
 - Turtle [6.85 KG] [Age 30] ×1
 - Watering Can [1x Uses] ×1
-- [Chilled] Blueberry [0.23kg] ×1
 - [Tempestuous, Frozen, Sandy, Pollinated] Beanstalk [13.95kg] ×1
 - [Wet] Coconut [13.78kg] ×5
