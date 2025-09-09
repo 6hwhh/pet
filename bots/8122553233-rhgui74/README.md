@@ -1,6 +1,6 @@
 # Inventory – 8122553233-rhgui74
 
-- Updated: 2025-09-09T23-02-55Z
+- Updated: 2025-09-09T23-03-17Z
 - Sheckles: 0
 
 Top items:
@@ -17,10 +17,10 @@ Top items:
 - Polar Bear [2.44 KG] [Age 15] ×1
 - Seagull [2.01 KG] [Age 15] ×1
 - Shiny Mimic Octopus [4.38 KG] ×11
-- Shocked Cooked Owl [3.23 KG] ×1
 - Shocked Lobster Thermidor [3.31 KG] ×1
 - Shovel [Destroy Plants] ×2
 - T-Rex [7.32 KG] [Age 28] ×1
 - Turtle [6.85 KG] [Age 30] ×1
 - Watering Can [1x Uses] ×1
 - [Chilled] Blueberry [0.23kg] ×1
+- [Tempestuous, Frozen, Sandy, Pollinated] Beanstalk [13.95kg] ×1
