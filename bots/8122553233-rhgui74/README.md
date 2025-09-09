@@ -1,6 +1,6 @@
 # Inventory – 8122553233-rhgui74
 
-- Updated: 2025-09-09T16-35-24Z
+- Updated: 2025-09-09T16-37-22Z
 - Sheckles: 1.2450100100357128e+23
 
 Top items:
@@ -8,14 +8,15 @@ Top items:
 - Brown Mouse [3.89 KG] [Age 16] ×1
 - Carrot [0.32kg] ×2
 - Caterpillar [1.71 KG] [Age 1] ×2
-- Chicken Zombie [1.43 KG] [Age 1] ×1
+- Chicken Zombie [1.43 KG] [Age 1] ×3
 - Cow [1.13 KG] [Age 1] ×1
 - Garden Guide ×1
 - Giant Ant [1.07 KG] [Age 1] ×1
-- Lobster Thermidor [2.55 KG] [Age 17] ×1
+- Lobster Thermidor [2.55 KG] [Age 17] ×3
 - Mimic Octopus [5.39 KG] [Age 40] ×11
 - Orange Tabby [8.61 KG] [Age 34] ×1
 - Polar Bear [2.44 KG] [Age 15] ×1
+- Red Fox [5.55 KG] [Age 28] ×3
 - Seagull [2.01 KG] [Age 15] ×1
 - Shovel [Destroy Plants] ×2
 - T-Rex [7.32 KG] [Age 28] ×1
@@ -23,4 +24,3 @@ Top items:
 - Watering Can [1x Uses] ×1
 - [Chilled] Blueberry [0.23kg] ×1
 - [Tempestuous, Frozen, Sandy, Pollinated] Beanstalk [13.95kg] ×1
-- [Windstruck, Frozen] Coconut [17.79kg] ×5
