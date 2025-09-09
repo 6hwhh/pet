@@ -1,7 +1,7 @@
 # Inventory – 8122553233-rhgui74
 
-- Updated: 2025-09-09T19-10-54Z
-- Sheckles: 1.2550100100357129e+23
+- Updated: 2025-09-09T23-01-29Z
+- Sheckles: 0
 
 Top items:
 - Blood Owl [2.87 KG] [Age 14] ×2
@@ -13,12 +13,12 @@ Top items:
 - Garden Guide ×1
 - Giant Ant [1.07 KG] [Age 1] ×1
 - Griffin [2.44 KG] [Age 15] ×1
-- Mimic Octopus [4.39 KG] [Age 32] ×11
 - Orange Tabby [8.61 KG] [Age 34] ×1
 - Polar Bear [2.44 KG] [Age 15] ×1
 - Seagull [2.01 KG] [Age 15] ×1
+- Shiny Mimic Octopus [4.38 KG] ×11
 - Shocked Lobster Thermidor [3.31 KG] ×1
-- Shovel [Destroy Plants] ×1
+- Shovel [Destroy Plants] ×2
 - T-Rex [7.32 KG] [Age 28] ×1
 - Turtle [6.85 KG] [Age 30] ×1
 - Watering Can [1x Uses] ×1
