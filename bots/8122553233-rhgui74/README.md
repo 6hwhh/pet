@@ -1,6 +1,6 @@
 # Inventory – 8122553233-rhgui74
 
-- Updated: 2025-09-09T18-32-51Z
+- Updated: 2025-09-09T18-33-21Z
 - Sheckles: 1.2550100100357129e+23
 
 Top items:
@@ -18,7 +18,7 @@ Top items:
 - Polar Bear [2.44 KG] [Age 15] ×1
 - Seagull [2.01 KG] [Age 15] ×1
 - Shocked Lobster Thermidor [3.31 KG] ×1
-- Shovel [Destroy Plants] ×1
+- Shovel [Destroy Plants] ×2
 - T-Rex [7.32 KG] [Age 28] ×1
 - Turtle [6.85 KG] [Age 30] ×1
 - Watering Can [1x Uses] ×1
