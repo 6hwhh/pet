@@ -1,6 +1,6 @@
 # Inventory – 8122553233-rhgui74
 
-- Updated: 2025-09-09T16-38-15Z
+- Updated: 2025-09-09T16-42-19Z
 - Sheckles: 1.2450100100357128e+23
 
 Top items:
@@ -13,12 +13,12 @@ Top items:
 - Fried Red Fox [4.03 KG] ×3
 - Garden Guide ×1
 - Giant Ant [1.07 KG] [Age 1] ×1
-- Lobster Thermidor [2.55 KG] [Age 17] ×2
+- Lobster Thermidor [2.55 KG] [Age 17] ×3
 - Mimic Octopus [5.39 KG] [Age 40] ×11
 - Orange Tabby [8.61 KG] [Age 34] ×1
 - Polar Bear [2.44 KG] [Age 15] ×1
 - Seagull [2.01 KG] [Age 15] ×1
-- Shovel [Destroy Plants] ×2
+- Shovel [Destroy Plants] ×1
 - T-Rex [7.32 KG] [Age 28] ×1
 - Turtle [6.85 KG] [Age 30] ×1
 - Watering Can [1x Uses] ×1
