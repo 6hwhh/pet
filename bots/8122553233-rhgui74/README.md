@@ -1,6 +1,6 @@
 # Inventory – 8122553233-rhgui74
 
-- Updated: 2025-09-09T16-31-24Z
+- Updated: 2025-09-09T16-31-54Z
 - Sheckles: 1.2450100100357128e+23
 
 Top items:
@@ -17,7 +17,7 @@ Top items:
 - Orange Tabby [8.61 KG] [Age 34] ×1
 - Polar Bear [2.44 KG] [Age 15] ×1
 - Seagull [2.01 KG] [Age 15] ×1
-- Shovel [Destroy Plants] ×2
+- Shovel [Destroy Plants] ×1
 - T-Rex [7.32 KG] [Age 28] ×1
 - Turtle [6.85 KG] [Age 30] ×1
 - Watering Can [1x Uses] ×1
