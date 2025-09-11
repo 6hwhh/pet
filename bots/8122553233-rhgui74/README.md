@@ -1,16 +1,16 @@
 # Inventory – 8122553233-rhgui74
 
-- Updated: 2025-09-11T15-02-25Z
+- Updated: 2025-09-11T15-03-26Z
 - Sheckles: 0
 
 Top items:
-- Aromatic Mimic Octopus [4.29 KG] ×9
 - Blood Owl [2.87 KG] [Age 14] ×3
 - Brown Mouse [3.89 KG] [Age 16] ×1
 - Carrot [0.32kg] ×2
 - Caterpillar [1.71 KG] [Age 1] ×2
 - Chicken Zombie [3.11 KG] [Age 19] ×2
 - Cow [1.13 KG] [Age 1] ×1
+- Frozen Mimic Octopus [1.67 KG] ×9
 - Garden Guide ×1
 - Giant Ant [1.07 KG] [Age 1] ×1
 - Griffin [2.44 KG] [Age 15] ×1
@@ -23,4 +23,4 @@ Top items:
 - Turtle [6.85 KG] [Age 30] ×1
 - Watering Can [1x Uses] ×1
 - [Chilled] Blueberry [0.23kg] ×1
-- [Tempestuous, Frozen, Sandy, Pollinated] Beanstalk [13.95kg] ×1
+- [Shocked, Windstruck, Frozen, Sundried] Coconut [10.22kg] ×5
